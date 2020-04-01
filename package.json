@@ -1,0 +1,15 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "A UI Component Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zemian Deng",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.8.1",
+    "knockout": "^3.5.1"
+  }
+}
