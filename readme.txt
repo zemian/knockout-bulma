@@ -1,3 +1,3 @@
-## A UI Component Libraries 
+## About
 
-Power by KnockoutJS + Bulma.CSS
+Exploring KnockoutJS + Bulma CSS
